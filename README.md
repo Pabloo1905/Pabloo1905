@@ -10,6 +10,7 @@ Actualmente sigo mejorando mis conocimientos en desarrollo web, arquitectura bac
 
 **Backend y Bases de Datos**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -31,15 +32,9 @@ Actualmente sigo mejorando mis conocimientos en desarrollo web, arquitectura bac
 
 *(Actualmente estoy preparando y subiendo mis repositorios. Aquí irán mis proyectos principales)*
 
-- **Proyecto 1** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/TU-USUARIO)
-- **Proyecto 2** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/TU-USUARIO)
-- **Proyecto 3** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/TU-USUARIO)
-
----
-
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de Pablo](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+- **Proyecto 1** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/Pabloo1905)
+- **Proyecto 2** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/Pabloo1905)
+- **Proyecto 3** – Breve descripción de lo que hace la aplicación. [Ver repositorio](https://github.com/Pabloo1905)
 
 ---
 
@@ -48,4 +43,4 @@ Actualmente sigo mejorando mis conocimientos en desarrollo web, arquitectura bac
 Si quieres contactar conmigo para alguna oportunidad o proyecto, puedes escribirme por correo o ver mi código en GitHub:
 
 [![Gmail](https://img.shields.io/badge/Gmail-pabloaraujo1905@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pabloaraujo1905@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TU--USUARIO-181717?style=flat&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Pabloo1905-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pabloo1905)
